@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @kepervidal.
-- 👀 I’m interested in WebDev and Data Science
-- 🌱 I’m currently learning HTML, CSS, JS, PY
-- 💞️ I’m looking to collaborate on web devs and data science projects
-- 📫 How to reach me: @keper_v on social media
+## Hi, I am Keper Vidal, and that's my GitHuB!
 
 
+<div>
+  <a href="https://github.com/kepervidal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kepervidal&layout=copmpact&theme=dark&icons=true"
+ 
+   <a href="https://github.com/kepervidal">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kepervidal&show_icons=true&theme=dark"
+        
+</div>
+    
+ <div style="display> inline_block"><br>
+   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                                     
+                                       
+  
+    
